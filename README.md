@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @manoe
 - 👀 I’m interested in wireless sensor networks (WSN)
 - 🌱 I’m currently learning routing protocols
-- 💞️ I’m looking to collaborate on Castalia/Omnet++ based WSN research project
+- 💞️ I’m looking to collaborate on Castalia/Omnet++ based WSN research projects
 - 📫 How to reach me: IM me here or at twitter/@manoe
 
 <!---
